@@ -1,12 +1,14 @@
 Advanced Application in Artificial Vision
 Overview
-This repository contains a Jupyter Notebook titled "Advanced Application in Artificial Vision". This notebook covers advanced techniques and applications in the field of artificial vision, including but not limited to image processing, object detection, and machine learning models used in computer vision.
+This repository contains a Jupyter Notebook titled "Advanced Application in Finances". This notebook covers advanced techniques and applications in the field of finances, including API conections to fetch in real time the stock prices and forecasting tools
 
 Contents
-Image Processing Techniques: Overview and implementation of various image processing techniques.
-Object Detection: Introduction to object detection methods and frameworks.
-Machine Learning Models: Training and evaluation of machine learning models for vision tasks.
-Practical Applications: Real-world applications and case studies.
+-Data fetching
+-Data exploration
+-Data preprocessing
+-Forecasting
+-Forecasting evaluation
+
 Prerequisites
 To run the notebook, you need to have the following installed:
 
